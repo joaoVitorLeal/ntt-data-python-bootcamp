@@ -1,4 +1,4 @@
-# Sistema Bancário
+# Sistema Bancário 2.0
 ![Python](https://img.shields.io/badge/Python-3.8-blue.svg)
 
 ## 📜 Descrição
