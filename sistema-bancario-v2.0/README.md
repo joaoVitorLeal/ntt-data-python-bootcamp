@@ -53,6 +53,7 @@ O **sistema_bancario.py** é um projeto em Python que simula um sistema bancári
 
 Informe o valor de depósito: 100
 ☰☰☰  Depósito de R$100.00 realizado com sucesso!  ☰☰☰
+```
 
 ## Contribuições
 
@@ -63,11 +64,12 @@ Contribuições são bem-vindas! Se você gostaria de ajudar a melhorar este sis
 2. **Crie uma branch**: Crie uma nova branch para sua contribuição. É recomendável usar um nome descritivo:
    ```bash
    git checkout -b nome-da-sua-branch
+``
 
 
 ## ⚠️ Observações
 
-    As operações são interativas e requerem entradas válidas.
-    Mantenha o código e as bibliotecas atualizadas para garantir o melhor desempenho.
+As operações são interativas e requerem entradas válidas.
+Mantenha o código e as bibliotecas atualizadas para garantir o melhor desempenho.
 
 
