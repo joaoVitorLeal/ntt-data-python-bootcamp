@@ -1,31 +1,33 @@
-## Projeto de # NTT DATA - Engenharia de Dados com Python
+# Sistema Bancário em Python
 
-Este repositório contém todo o material que desenvolvi ao longo do Bootcamp **NTT DATA - Engenharia de Dados com Python** oferecido pela [DIO](https://www.dio.me/). 
+Este repositório contém implementações de sistemas bancários desenvolvidos durante meu aprendizado em Python, como parte do meu desenvolvimento profissional e do Bootcamp NTT DATA - Engenharia de Dados com Python. Os projetos abrangem desde sistemas simples de gerenciamento de contas bancárias até versões mais complexas com funcionalidades aprimoradas.
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
-- **Atividades**: Resolução de exercícios propostos durante as aulas.
-- **Projetos**: Projetos práticos desenvolvidos ao longo do bootcamp.
-- **Desafios**: Desafios de código e projetos aplicados.
-- **Anotações**: Notas pessoais e resumos dos principais tópicos abordados.
+- **`sistema-bancario-v1.0`**: Primeira versão do sistema bancário com funcionalidades básicas de depósito, saque e consulta de saldo.
+- **`sistema-bancario-v2.0`**: Implementação de melhorias, como a possibilidade de transferência entre contas e histórico de transações.
+- **`sistema-bancario-v3.0`**: Versão mais robusta, utilizando **POO** (Programação Orientada a Objetos), com validações de segurança como autenticação por senha e controle de múltiplos usuários.
 
-## 🚀 Sobre o Bootcamp
 
-O Bootcamp NTT DATA - Engenharia de Dados com Python é um programa intensivo de aprendizado que aborda desde os fundamentos da programação em Python até o desenvolvimento de sistemas complexos de Engenharia de Dados. O programa é focado em fornecer uma base sólida para uma carreira na área, combinando teoria e prática em um ambiente de aprendizado dinâmico.
-
-### Principais Tópicos Abordados:
-- **Fundamentos de Python**
-- **Banco de Dados SQL e NoSQL**
-- **Manipulação e Análise de Dados**
-- **Engenharia de Dados com Python**
-- **Integração de Sistemas**
-- **Boas Práticas de Desenvolvimento**
+Cada versão tem um `README.md` específico que detalha o código e as funcionalidades implementadas.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python
-- Git e GitHub
-- SQL
+- **Python**: Linguagem principal para o desenvolvimento do sistema.
+- **Git e GitHub**: Para controle de versão e colaboração.
+
+## Funcionalidades
+
+- **Cadastro de contas bancárias**: Criação de contas com saldo inicial.
+- **Operações financeiras**: Depósitos, saques e transferências entre contas.
+- **Histórico de transações**: Registro das operações realizadas, permitindo consultas.
+- **Segurança**: Autenticação de usuários através de senha.
+
+## Como Rodar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/joaoVitorLeal/python-banking-system.git
 
 ## 📚 Referências
 
@@ -36,10 +38,6 @@ O Bootcamp NTT DATA - Engenharia de Dados com Python é um programa intensivo de
 ## 🤝 Contribuições
 
 Este repositório é destinado ao meu aprendizado pessoal, mas feedbacks e sugestões são sempre bem-vindos! Sinta-se à vontade para abrir issues ou fazer pull requests.
-
-## 📝 Observações
-
-As seções **Principais Tópicos Abordados** e **Tecnologias Utilizadas** ainda estão incompletas. Vou continuar incrementando essas listas conforme eu for me aprofundando e explorando novos conceitos, ferramentas e tecnologias ao longo do Bootcamp **NTT DATA - Engenharia de Dados com Python**. 
 
 Sinta-se à vontade para acompanhar as atualizações e contribuir com sugestões!
 
